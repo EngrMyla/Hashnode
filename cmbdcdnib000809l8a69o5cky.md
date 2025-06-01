@@ -3,8 +3,8 @@ title: "I'm too raw to be a supervisor/ senior data Engineer: I have no choice b
 datePublished: Sun Jan 12 2025 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmbdcdnib000809l8a69o5cky
 slug: im-too-raw-to-be-a-supervisor-senior-data-engineer-i-have-no-choice-but-to-grow
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748768609027/4336825e-c28a-475b-8637-c6863fa4a35b.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748768671606/81afcc43-c9f0-43f4-8872-bb780d19f513.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748778836587/42efc648-42f8-4c78-959d-cb3785b72d28.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748778818647/f3988b31-d9e9-400b-b8c2-a8520039ac28.jpeg
 tags: growth, reflection, dataengineering, struggle, grind
 
 ---
