@@ -3,8 +3,7 @@ title: "The life-changing Developer Event I attended"
 datePublished: Sun Jun 01 2025 09:16:50 GMT+0000 (Coordinated Universal Time)
 cuid: cmbdg5l41000709jvbbbcale8
 slug: the-life-changing-developer-event-i-attended
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748770884943/dd644778-3c0c-4574-9a28-4adbb7613caf.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748769358265/a3e8be2e-d37b-454c-a9cd-bedf8de654fc.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748778622122/9537abaf-1f9f-404f-815b-970b1c638fba.png
 tags: ai, google, events, gdg
 
 ---
