@@ -3,8 +3,8 @@ title: "Now, I know why am I struggling..."
 datePublished: Sun Mar 16 2025 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmbdd8ilo000409k3abk794sl
 slug: now-i-know-why-am-i-struggling
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748768704924/67af2e9a-ce49-4bb8-86d7-85bac92cdd2d.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748768739340/81651cc6-814b-4519-b19f-ede085aef40b.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748778762871/fb4c395e-6db9-4d0e-8276-49467eb60257.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748778792167/8121ffc5-5466-436b-89fa-9709f50ddf11.jpeg
 tags: learning, dataengineering, struggle, overcoming-challenges
 
 ---
